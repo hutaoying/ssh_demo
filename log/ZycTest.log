@@ -1,0 +1,53 @@
+2018-05-08 19:13:11 [main] INFO  Version:45 - HHH000412: Hibernate Core {5.3.0.CR1}
+2018-05-08 19:13:11 [main] INFO  Environment:211 - HHH000206: hibernate.properties not found
+2018-05-08 19:13:12 [main] INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.0.2.Final}
+2018-05-08 19:13:16 [main] WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-08 19:13:16 [main] INFO  pooling:129 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql:///spring_day04]
+2018-05-08 19:13:16 [main] INFO  pooling:138 - HHH10001001: Connection properties: {user=root, password=****}
+2018-05-08 19:13:16 [main] INFO  pooling:143 - HHH10001003: Autocommit mode: false
+2018-05-08 19:13:16 [main] INFO  DriverManagerConnectionProviderImpl:281 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-05-08 19:13:17 [main] INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-05-08 19:13:19 [main] INFO  pooling:233 - HHH10001008: Cleaning up connection pool [jdbc:mysql:///spring_day04]
+2018-05-08 19:18:19 [main] INFO  Version:45 - HHH000412: Hibernate Core {5.3.0.CR1}
+2018-05-08 19:18:19 [main] INFO  Environment:211 - HHH000206: hibernate.properties not found
+2018-05-08 19:18:20 [main] INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.0.2.Final}
+2018-05-08 19:18:23 [main] WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-08 19:18:23 [main] INFO  pooling:129 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql:///spring_day04]
+2018-05-08 19:18:23 [main] INFO  pooling:138 - HHH10001001: Connection properties: {user=root, password=****}
+2018-05-08 19:18:23 [main] INFO  pooling:143 - HHH10001003: Autocommit mode: false
+2018-05-08 19:18:23 [main] INFO  DriverManagerConnectionProviderImpl:281 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-05-08 19:18:23 [main] INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-05-08 19:18:25 [main] INFO  pooling:233 - HHH10001008: Cleaning up connection pool [jdbc:mysql:///spring_day04]
+2018-05-08 19:21:34 [main] INFO  Version:45 - HHH000412: Hibernate Core {5.3.0.CR1}
+2018-05-08 19:21:34 [main] INFO  Environment:211 - HHH000206: hibernate.properties not found
+2018-05-08 19:21:35 [main] INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.0.2.Final}
+2018-05-08 19:22:05 [main] INFO  Version:45 - HHH000412: Hibernate Core {5.3.0.CR1}
+2018-05-08 19:22:05 [main] INFO  Environment:211 - HHH000206: hibernate.properties not found
+2018-05-08 19:22:06 [main] INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.0.2.Final}
+2018-05-08 19:22:09 [main] WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-08 19:22:09 [main] INFO  pooling:129 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql:///spring_day04]
+2018-05-08 19:22:09 [main] INFO  pooling:138 - HHH10001001: Connection properties: {user=root, password=****}
+2018-05-08 19:22:09 [main] INFO  pooling:143 - HHH10001003: Autocommit mode: false
+2018-05-08 19:22:09 [main] INFO  DriverManagerConnectionProviderImpl:281 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-05-08 19:22:09 [main] INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-05-08 19:22:11 [main] INFO  pooling:233 - HHH10001008: Cleaning up connection pool [jdbc:mysql:///spring_day04]
+2018-05-08 19:25:24 [main] INFO  Version:45 - HHH000412: Hibernate Core {5.3.0.CR1}
+2018-05-08 19:25:24 [main] INFO  Environment:211 - HHH000206: hibernate.properties not found
+2018-05-08 19:25:25 [main] INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.0.2.Final}
+2018-05-08 19:25:28 [main] WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-08 19:25:28 [main] INFO  pooling:129 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql:///spring_day04]
+2018-05-08 19:25:28 [main] INFO  pooling:138 - HHH10001001: Connection properties: {user=root, password=****}
+2018-05-08 19:25:28 [main] INFO  pooling:143 - HHH10001003: Autocommit mode: false
+2018-05-08 19:25:28 [main] INFO  DriverManagerConnectionProviderImpl:281 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-05-08 19:25:28 [main] INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-05-08 19:25:30 [main] INFO  pooling:233 - HHH10001008: Cleaning up connection pool [jdbc:mysql:///spring_day04]
+2018-05-08 19:36:20 [main] INFO  Version:45 - HHH000412: Hibernate Core {5.3.0.CR1}
+2018-05-08 19:36:20 [main] INFO  Environment:211 - HHH000206: hibernate.properties not found
+2018-05-08 19:36:20 [main] INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.0.2.Final}
+2018-05-08 19:36:23 [main] WARN  pooling:73 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-08 19:36:23 [main] INFO  pooling:129 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql:///spring_day04]
+2018-05-08 19:36:23 [main] INFO  pooling:138 - HHH10001001: Connection properties: {user=root, password=****}
+2018-05-08 19:36:23 [main] INFO  pooling:143 - HHH10001003: Autocommit mode: false
+2018-05-08 19:36:23 [main] INFO  DriverManagerConnectionProviderImpl:281 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-05-08 19:36:24 [main] INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-05-08 19:36:28 [main] INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@c96a4ea] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
